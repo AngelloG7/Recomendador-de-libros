@@ -193,4 +193,6 @@ Si tienes preguntas o sugerencias, no dudes en abrir un issue en el repositorio.
 
 ---
 
-**¡Disfruta descubriendo tu próxima lectura favorita! 📚✨**
+## Muchas gracias
+
+Gracias por usar mi sistema de recomendacion con IA integrada.
